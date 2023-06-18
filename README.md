@@ -46,9 +46,7 @@
   <a href="https://github.com/seelentov">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seelentov&theme=aura&utcOffset=8" />
   </a>
-  <a href="https://github.com/seelentov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seelentov&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+
 </p>
 </details>
 
