@@ -25,7 +25,6 @@
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/seelentov)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/seelentov)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/seelentov)
 [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
 [![Gulp](https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/seelentov)
 
