@@ -27,6 +27,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/seelentov)
 [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
 [![Gulp](https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/seelentov)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/seelentov)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/seelentov)
