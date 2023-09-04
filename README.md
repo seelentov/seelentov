@@ -5,9 +5,6 @@
         Меня зовут Владислав<br>
         Занимаюсь изучением и практикой в сфере Frontend-разработки<br>
     </i><br>
-    <a href="https://www.codewars.com/users/seelentov">
-      <img src="https://img.shields.io/badge/Codewars-purple?style=flat-square&logo=Codewars&logoColor=white" alt="Codewars">
-    </a>
 </p>
 
 ### Languages
