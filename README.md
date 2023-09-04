@@ -18,8 +18,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/seelentov)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/seelentov)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/seelentov)
+[![Linux](https://img.shields.io/badge/linux-f3c354?style=for-the-badge&logo=Linux&logoColor=white)](https://github.com/seelentov)
+[![Windows](https://img.shields.io/badge/Windows-00bcf2?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/seelentov)
 
 
 <details>
