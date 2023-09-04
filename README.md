@@ -11,7 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/seelentov)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/seelentov)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/seelentov)
 [![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3)](https://github.com/seelentov)
 [![Sass](https://img.shields.io/badge/sass-cd669a?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
 [![Gulp](https://img.shields.io/badge/gulp-d14747?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/seelentov)
