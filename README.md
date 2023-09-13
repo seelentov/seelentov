@@ -17,6 +17,8 @@
 [![Gulp](https://img.shields.io/badge/gulp-d14747?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/seelentov)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/seelentov)
 [![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=333333&style=for-the-badge)](https://github.com/seelentov)
+[![REDUX](https://img.shields.io/badge/redux-764abc?logo=redux&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-f3c354?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/seelentov)
