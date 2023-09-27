@@ -15,7 +15,6 @@
 [![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/seelentov)
 [![Sass](https://img.shields.io/badge/sass-cd669a?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
 [![Gulp](https://img.shields.io/badge/gulp-d14747?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/seelentov)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/seelentov)
 [![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=333333&style=for-the-badge)](https://github.com/seelentov)
 [![REDUX](https://img.shields.io/badge/redux-764abc?logo=redux&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![VITE](https://img.shields.io/badge/vite-9b5dfe?logo=vite&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
