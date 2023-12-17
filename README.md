@@ -18,6 +18,8 @@
 [![VITE](https://img.shields.io/badge/vite-9b5dfe?logo=vite&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=333333&style=for-the-badge)](https://github.com/seelentov)
 [![REDUX TOOLKIT](https://img.shields.io/badge/redux&nbsp;toolkit-764abc?logo=redux&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+[![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/seelentov)
+
 ![EXPRESS.JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MONGODB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
