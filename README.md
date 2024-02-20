@@ -13,6 +13,7 @@
 
 ### Technologies & Frameworks
 [![Sass](https://img.shields.io/badge/sass-cd669a?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
+[![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=333333&style=for-the-badge)](https://github.com/seelentov)
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/seelentov)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/seelentov)
 [![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/seelentov)
