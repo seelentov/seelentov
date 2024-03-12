@@ -10,6 +10,7 @@
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-ecd738?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/seelentov)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/seelentov)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/seelentov)
 
 ### Technologies & Frameworks
 [![Sass](https://img.shields.io/badge/sass-cd669a?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
