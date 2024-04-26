@@ -14,6 +14,7 @@
 
 ### Technologies & Frameworks
 [![Sass](https://img.shields.io/badge/sass-cd669a?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/seelentov)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/seelentov)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=333333&style=for-the-badge)](https://github.com/seelentov)
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/seelentov)
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/seelentov)
