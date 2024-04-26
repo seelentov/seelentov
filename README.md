@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D<h1 align="center">Добро пожаловать на мою страницу</h1>
+<h1 align="center">Добро пожаловать на мою страницу</h1>
 
 <p align="center">
     <i>
