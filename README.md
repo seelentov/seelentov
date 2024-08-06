@@ -8,7 +8,6 @@
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-ecd738?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/seelentov)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/seelentov)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/seelentov)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/seelentov)
