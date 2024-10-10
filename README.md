@@ -18,7 +18,7 @@
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/seelentov)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/seelentov)
 
-![ASP.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![EXPRESS.JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/seelentov)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/seelentov)
 
