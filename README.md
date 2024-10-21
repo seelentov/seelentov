@@ -9,8 +9,8 @@
 
 ### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/seelentov)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/seelentov)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/seelentov)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/seelentov)
  
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=333333&style=for-the-badge)](https://github.com/seelentov)
