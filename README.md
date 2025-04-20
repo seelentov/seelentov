@@ -18,8 +18,8 @@
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/seelentov)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/seelentov)
 
-[![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
-[![HIBERNATE](https://img.shields.io/badge/Hibernate-ORM-yellow?style=for-the-badge&logo=hibernate)]
+[![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/seelentov)
+[![HIBERNATE](https://img.shields.io/badge/Hibernate-ORM-yellow?style=for-the-badge&logo=hibernate)](https://github.com/seelentov)
 
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/seelentov)
 
