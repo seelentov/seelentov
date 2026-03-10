@@ -23,6 +23,8 @@
 [![DOCKER](https://img.shields.io/badge/docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 
+[![UBUNTU](https://img.shields.io/badge/ubuntu-FF6600?logo=ubuntu&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+
 
 
 <details>
