@@ -19,7 +19,7 @@
 [![REDIS](https://img.shields.io/badge/redis-D82C20?logo=redis&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![CASSANDRA](https://img.shields.io/badge/cassandra-68A063?logo=cassandra&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 
-[![SPRING](https://img.shields.io/badge/spring-FFBF00?logo=spring&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
+[![SPRING](https://img.shields.io/badge/spring-FFFFFF?logo=spring&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
 
 [![DOCKER](https://img.shields.io/badge/docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
