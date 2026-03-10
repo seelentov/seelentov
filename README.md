@@ -20,6 +20,10 @@
 
 [![SPRING](https://img.shields.io/badge/spring-FFBF00?logo=spring&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
 
+[![DOCKER](https://img.shields.io/badge/docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+[![RABBITMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+
+
 
 <details>
 <p align="center">
