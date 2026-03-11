@@ -20,6 +20,8 @@
 [![CASSANDRA](https://img.shields.io/badge/cassandra-68A063?logo=cassandra&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 
 [![SPRING](https://img.shields.io/badge/spring-FFFFFF?logo=spring&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
+[![GRABLE](https://img.shields.io/badge/gradle-black?logo=gradle&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
+
 
 [![GIN](https://img.shields.io/badge/Gin-2791F5?logo=Gin&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![GORM](https://img.shields.io/badge/gorm-2791F5?logo=gorm&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
