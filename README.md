@@ -22,12 +22,13 @@
 [![SPRING](https://img.shields.io/badge/spring-FFFFFF?logo=spring&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
 [![GRABLE](https://img.shields.io/badge/gradle-black?logo=gradle&logoColor=block&style=for-the-badge)](https://github.com/seelentov)
 
-
 [![GIN](https://img.shields.io/badge/Gin-2791F5?logo=Gin&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![GORM](https://img.shields.io/badge/gorm-2791F5?logo=gorm&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 
 [![DOCKER](https://img.shields.io/badge/docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+[![ANSIBLE](https://img.shields.io/badge/ansible-90D5FF?logo=ansible&logoColor=black&style=for-the-badge)](https://github.com/seelentov)
+
 
 [![JETBRAINS](https://img.shields.io/badge/jetbrains-212121?logo=jetbrains&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 [![CLAUDE](https://img.shields.io/badge/claude-c15f3c?logo=claude&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
