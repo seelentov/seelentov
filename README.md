@@ -30,6 +30,8 @@
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
 
 [![JETBRAINS](https://img.shields.io/badge/jetbrains-212121?logo=jetbrains&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+[![CLAUDE](https://img.shields.io/badge/claude-c15f3c?logo=claude&logoColor=white&style=for-the-badge)](https://github.com/seelentov)
+
 
 ### Operating Systems
 
