@@ -24,5 +24,5 @@
 - **Топология и групповые тревоги** — при аварии на магистрали видно причину, а не сотню однотипных уведомлений
 - **SNMP v1/v2c/v3 + Trap/Syslog + SSH CLI-метрики**, ролевой доступ, REST API
 
-Код закрытый (коммерческий продукт) — [discovery-info](https://github.com/seelentov/discovery-info) открытая документация,
+[discovery-info](https://github.com/seelentov/discovery-info) открытая документация,
 [discovery-releases](https://github.com/seelentov/discovery-releases) готовые бинарники.
