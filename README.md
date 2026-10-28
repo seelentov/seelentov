@@ -26,8 +26,6 @@
 |---|---|---|
 | 📡 [**discovery**](https://github.com/seelentov/discovery) | Open-source система мониторинга сетевых устройств для интернет-провайдеров: SNMP-дискаверинг и опрос, тревоги с гистерезисом, топология, уведомления в Telegram/email/webhook. Один бинарник со встроенным дашбордом | Rust · Tokio · Axum · SeaORM · React · TypeScript · Playwright |
 | 💬 [**miichat**](https://github.com/seelentov/miichat) | Self-hosted мессенджер: шифрование на сервере AES-256-GCM, E2E для secret-чатов (ECDH P-256), регистрация без email/телефона | Go · JavaScript · Docker |
-| 🚀 [**miraclevpn**](https://github.com/seelentov/miraclevpn) | Backend VPN-сервиса [Mii Boost](https://miiboost.ru/) (Android / iOS) с Telegram-ботом | Go · Gin · GORM · PostgreSQL · Nginx · Ansible |
-| 🃏 [**card-chess-game**](https://github.com/seelentov/card-chess-game) | Мультиплеерный backend автобатлера (до 8 игроков) на чистой Java Core, без фреймворков: игровая логика, состояние матчей, WebSocket + HTTP | Java · Gradle · WebSocket |
 | ⚙️ [**workflow**](https://github.com/seelentov/workflow) | Автоматизация задач на удалённых серверах по SSH: YAML-плейбуки и инвентори, аналог Ansible | Go · Cobra · YAML |
 | 📰 [**gopress**](https://github.com/seelentov/gopress) | Headless CMS с визуальным конструктором запросов, типами контента, ролями и публичным REST API | Go · Gin · GORM · PostgreSQL / MySQL / SQLite |
 | 🧮 [**gowcode**](https://github.com/seelentov/gowcode) | Вычислитель выражений для Go: переменные, тернарный оператор, списки и словари, встроенные и пользовательские функции | Go |
