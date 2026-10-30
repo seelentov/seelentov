@@ -24,7 +24,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| 🛡 [**aiegis**](https://github.com/seelentov/aiegis) | Десктопное приложение для AppSec-аудита поверх Claude Code: матрица «требования × модули» с вердиктами и доказательствами, карта точек входа, триаж сигналов Semgrep/Gitleaks/Trivy, SCA с проверкой достижимости, PoC-проверка находок. Агенты работают через MCP со scope-токенами в изолированных git worktree | Electron · TypeScript · React · MCP · SQLite · xterm.js |
+| 🛡 [**aiegis**](https://github.com/seelentov/aiegis) | Десктопное приложение для AppSec-аудита поверх Claude Code или pi (модели любого провайдера): матрица «требования × модули» с вердиктами и доказательствами, карта точек входа, триаж сигналов Semgrep/Gitleaks/Trivy, SCA с проверкой достижимости, PoC-проверка находок с автонастройкой тестового окружения. Агенты работают через MCP со scope-токенами в изолированных git worktree | Electron · TypeScript · React · MCP · SQLite · xterm.js |
 | 📡 [**discovery**](https://github.com/seelentov/discovery) | Open-source система мониторинга сетевых устройств для интернет-провайдеров: SNMP-дискаверинг и опрос, тревоги с гистерезисом, топология, уведомления в Telegram/email/webhook. Один бинарник со встроенным дашбордом | Rust · Tokio · Axum · SeaORM · React · TypeScript · Playwright |
 | 💬 [**miichat**](https://github.com/seelentov/miichat) | Self-hosted мессенджер: шифрование на сервере AES-256-GCM, E2E для secret-чатов (ECDH P-256), регистрация без email/телефона | Go · JavaScript · Docker |
 | ⚙️ [**workflow**](https://github.com/seelentov/workflow) | Автоматизация задач на удалённых серверах по SSH: YAML-плейбуки и инвентори, аналог Ansible | Go · Cobra · YAML |
